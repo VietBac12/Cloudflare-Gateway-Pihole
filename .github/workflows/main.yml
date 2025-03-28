@@ -39,5 +39,5 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-cloudflare-cache-
       
-      - name: Cloudflare Gateway Zero Trust 
-        run: python -m src run
+       - name: Cloudflare Gateway Zero Trust 
+        run: python -m src leave
