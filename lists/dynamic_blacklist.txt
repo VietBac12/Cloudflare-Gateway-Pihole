@@ -9,7 +9,6 @@ dns.storecake.io
 invl.io
 invl.me
 finallygotthexds.site
-connect.facebook.net
 dns.ladipage.com
 socialplugin.facebook.net
 help.business-support-facebook.com
